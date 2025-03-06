@@ -1,0 +1,529 @@
+[
+    {
+        "year":2024,
+        "worldChampion": "Max Verstappen",
+        "teamChampion": "Mclaren F1",
+        "teams": [
+            {
+                "name": "Red Bull Racing Honda RBPT",
+                "points": 589,
+                "engine": "Honda",
+                "drivers":[
+                    {
+                        "name":"Max Verstappen",
+                        "nationality":"Dutch",
+                        "points": 437,
+                        "fastestLaps": 3,
+                        "podiums": 13,
+                        "wins": 9
+                    },
+                    {
+                        "name":"Sergio Perez",
+                        "nationality":"Mexican",
+                        "points": 152,
+                        "fastestLaps": 1,
+                        "podiums": 4,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name":"Ferrari",
+                "points":652,
+                "engine":"Ferrari",
+                "drivers":[
+                    {
+                        "name":"Charles Leclerc",
+                        "nationality":"Monegasque",
+                        "points": 356,
+                        "fastestLaps": 3,
+                        "podiums": 13,
+                        "wins": 3
+                    },
+                    {
+                        "name":"Carlos Sainz",
+                        "nationality":"Spanish",
+                        "points": 290,                        
+                        "fastestLaps": 1,
+                        "podiums": 9,
+                        "wins": 2
+                    }
+                ]
+            },
+            {
+                "name": "McLaren Mercedes",
+                "points": 666,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Lando Norris",
+                        "nationality":"British",
+                        "points":374,
+                        "fastestLaps": 6,
+                        "podiums": 12,
+                        "wins": 4
+                    },
+                    {
+                        "name":"Oscar Piastri",
+                        "nationality":"Australian",
+                        "points":292,
+                        "fastestLaps": 1,
+                        "podiums": 8,
+                        "wins": 2
+                    }
+                ]
+            },
+            {
+                "name": "Mercedes",
+                "points": 468,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Lewis Hamilton",
+                        "nationality":"British",
+                        "points": 223,
+                        "fastestLaps": 2,
+                        "podiums": 5,
+                        "wins": 2
+                    },
+                    {
+                        "name":"George Russell",
+                        "nationality":"British",
+                        "points": 245,
+                        "fastestLaps": 2,
+                        "podiums": 4,
+                        "wins": 2
+                    }
+                ]
+            },
+            {
+                "name": "Aston Martin Aramco Mercedes",
+                "points": 94,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Fernando Alonso",
+                        "nationality":"Spanish",
+                        "points": 70,
+                        "fastestLaps": 2,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Lance Stroll",
+                        "nationality":"Canadian",
+                        "points": 24,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name": "Alpine Renault",
+                "points": 65,
+                "engine": "Renault",
+                "drivers":[
+                    {
+                        "name":"Esteban Ocon",
+                        "nationality":"French",
+                        "points": 23,
+                        "fastestLaps": 1,
+                        "podiums": 1,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Pierre Gasly",
+                        "nationality" :"French",
+                        "points":42,
+                        "fastestLaps": 0,
+                        "podiums": 1,
+                        "wins": 0
+
+                    },
+                    {
+                        "name":"Jack Doohan",
+                        "nationality":"Australian",
+                        "points": 0,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name": "RB Honda RBPT",
+                "points": 46,
+                "engine": "Honda",
+                "drivers":[
+                    {
+                        "name":"Yuki Tsunoda",
+                        "nationality":"Japanese",
+                        "points": 30,
+                        "fastestLaps": 1,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Daniel Ricciardo",
+                        "nationality":"Australian",
+                        "points":12,
+                        "fastestLaps": 1,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name": "Liam Lawson",
+                        "nationality" :"New Zealander",
+                        "points":4,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name":"Haas Ferrari",
+                "points": 58,
+                "engine": "Ferrari",
+                "drivers":[
+                    {
+                        "name":"Kevin Magnussen",
+                        "nationality":"Danish",
+                        "points": 16,
+                        "fastestLaps": 1,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name": "Nico Hulkenberg",
+                        "nationality":"German",
+                        "points": 41,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Oliver Bearman",
+                        "nationality":"British",
+                        "points": 7,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+
+                    }
+                ]
+            },
+            {
+                "name":"Williams Mercedes",
+                "points": 17,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Logan Sargeant",
+                        "nationality":"Canadian",
+                        "points": 0,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Alex Albon",
+                        "nationality":"Thai",
+                        "points": 12,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Franco Colapinto",
+                        "nationality":"Argentinian",
+                        "points":5,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name": "Kick Sauber Ferrari",
+                "points": 4,
+                "engine": "Ferrari",
+                "drivers":[
+                    {
+                        "name":"Valtteri Bottas",
+                        "nationality":"Finnish",
+                        "points": 0,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Zhou Guanyu",
+                        "nationality": "Chinese",
+                        "points": 4,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                        
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year":2023,
+        "worldChampion": "Max Verstappen",
+        "teamChampion": "Red Bull Racing Honda RBPT",
+        "teams": [
+            {
+                "name": "Red Bull Racing Honda RBPT",
+                "points": 860,
+                "engine": "Honda",
+                "drivers":[
+                    {
+                        "name":"Max Verstappen",
+                        "nationality":"Dutch",
+                        "points": 575,
+                        "fastestLaps": 12,
+                        "podiums": 21,
+                        "wins": 19
+                    },
+                    {
+                        "name":"Sergio Perez",
+                        "nationality":"Mexican",
+                        "points": 285,
+                        "fastestLaps": 2,
+                        "podiums": 9,
+                        "wins": 2
+                    }
+                ]
+            },
+            {
+                "name":"Ferrari",
+                "points":406,
+                "engine":"Ferrari",
+                "drivers":[
+                    {
+                        "name":"Charles Leclerc",
+                        "nationality":"Monegasque",
+                        "points": 206,
+                        "fastestLaps": 0,
+                        "podiums": 6,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Carlos Sainz",
+                        "nationality":"Spanish",
+                        "points": 200,                        
+                        "fastestLaps": 0,
+                        "podiums": 3,
+                        "wins": 1
+                    }
+                ]
+            },
+            {
+                "name": "McLaren Mercedes",
+                "points": 302,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Lando Norris",
+                        "nationality":"British",
+                        "points":205,
+                        "fastestLaps": 1,
+                        "podiums": 7,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Oscar Piastri",
+                        "nationality":"Australian",
+                        "points":97,
+                        "fastestLaps": 2,
+                        "podiums": 2,
+                        "wins": 0   
+                    }
+                ]
+            },
+            {
+                "name": "Mercedes",
+                "points": 409,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Lewis Hamilton",
+                        "nationality":"British",
+                        "points": 234,
+                        "fastestLaps": 4,
+                        "podiums": 6,
+                        "wins": 0
+                    },
+                    {
+                        "name":"George Russell",
+                        "nationality":"British",
+                        "points": 175,
+                        "fastestLaps": 1,
+                        "podiums": 2,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name": "Aston Martin Aramco Mercedes",
+                "points": 280,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Fernando Alonso",
+                        "nationality":"Spanish",
+                        "points": 206,
+                        "fastestLaps": 2,
+                        "podiums": 8,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Lance Stroll",
+                        "nationality":"Canadian",
+                        "points": 74,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name": "Alpine Renault",
+                "points": 120,
+                "engine": "Renault",
+                "drivers":[
+                    {
+                        "name":"Esteban Ocon",
+                        "nationality":"French",
+                        "points": 58,   
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Pierre Gasly",
+                        "nationality" :"French",
+                        "points":62,
+                        "fastestLaps": 0,
+                        "podiums": 1,
+                        "wins": 0
+
+                    }
+                ]
+            },
+            {
+                "name": "AlphaTauri Honda RBPT",
+                "points": 25,
+                "engine": "Honda",
+                "drivers":[
+                    {
+                        "name":"Yuki Tsunoda",
+                        "nationality":"Japanese",
+                        "points": 17,
+                        "fastestLaps": 1,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Daniel Ricciardo",
+                        "nationality":"Australian",
+                        "points":6,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name": "Liam Lawson",
+                        "nationality" :"New Zealander",
+                        "points":2,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name": "Nyck de Vries",
+                        "nationality" :"Dutch",
+                        "points":0,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name":"Haas Ferrari",
+                "points": 12,
+                "engine": "Ferrari",
+                "drivers":[
+                    {
+                        "name":"Kevin Magnussen",
+                        "nationality":"Danish",
+                        "points": 3,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name": "Nico Hulkenberg",
+                        "nationality":"German",
+                        "points": 9,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name":"Williams Mercedes",
+                "points": 28,
+                "engine": "Mercedes",
+                "drivers":[
+                    {
+                        "name":"Logan Sargeant",
+                        "nationality":"Canadian",
+                        "points": 1,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Alex Albon",
+                        "nationality":"Thai",
+                        "points": 27,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    }
+                ]
+            },
+            {
+                "name": "Alfa Romeo Ferrari",
+                "points": 16,
+                "engine": "Ferrari",
+                "drivers":[
+                    {
+                        "name":"Valtteri Bottas",
+                        "nationality":"Finnish",
+                        "points": 10,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                    },
+                    {
+                        "name":"Zhou Guanyu",
+                        "nationality": "Chinese",
+                        "points": 6,
+                        "fastestLaps": 0,
+                        "podiums": 0,
+                        "wins": 0
+                        
+                    }
+                ]
+            }
+        ]
+    }       
+]

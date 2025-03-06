@@ -1,0 +1,22 @@
+{
+  "name": "f1_api",
+  "version": "1.0.0",
+  "description": "F1 API ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "F1",
+    "API"
+  ],
+  "author": "Raul Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.21.2",
+    "mongodb": "^6.13.1",
+    "zod": "3.24.2"
+  }
+}
