@@ -15,7 +15,7 @@ const seasonSchema = z.object({
             required_error: "Team name is required",
             invalid_type_error: "Team name must be a string"
         }),
-        points: z.number().int().min(0),
+        points: z.number().nonnegative(),
         engine: z.string({
             required_error: "Engine is required",
             invalid_type_error: "Engine must be a string"
@@ -29,7 +29,7 @@ const seasonSchema = z.object({
                 required_error: "Nationality is required",
                 invalid_type_error:"Nationality must be a string"
             }),
-            points: z.number().int().min(0),
+            points: z.number().nonnegative(),
             fastestLaps:z.number().int().min(0),
             podiums: z.number().int().min(0),
             wins: z.number().int().min(0)
