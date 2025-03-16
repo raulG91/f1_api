@@ -12,7 +12,6 @@ seasonRouter.get("/:year/worldChampion",validateYear,SeasonsController.getWorldC
 seasonRouter.get("/:year/constructorChampion",validateYear,SeasonsController.getConstructorChampionByYear);
 seasonRouter.get("/:year/teams",validateYear,SeasonsController.getTeamsByYear);
 seasonRouter.get("/:year/drivers",validateYear,SeasonsController.getDriversByYear);
-
 //Post methods
 seasonRouter.post("/", SeasonsController.addSeason);
 
